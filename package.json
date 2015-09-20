@@ -1,6 +1,6 @@
 {
   "name": "chessmatic-board",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Chessboard is an internal board representation to maintain chess positions for search, evaluation and game-play. It's a NodeJS module.",
   "main": "./index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/loicmarie/chessmatic-board/issues"
   },
-  "homepage": "https://github.com/loicmarie/chessmatic-board#readme"
+  "homepage": "https://github.com/loicmarie/chessmatic-board#readme",
+  "dependencies": {
+    "traceur": "0.0.91"
+  }
 }
