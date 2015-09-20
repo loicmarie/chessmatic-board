@@ -1,8 +1,8 @@
 {
   "name": "chessmatic-board",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Chessboard is an internal board representation to maintain chess positions for search, evaluation and game-play. It's a NodeJS module.",
-  "main": "./lib/Chessboard.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
